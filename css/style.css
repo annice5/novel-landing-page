@@ -1,0 +1,214 @@
+#header-bg {
+    background-image: url(../img/garvit-nama-5X9Xr2wIj7A-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    padding: 2rem 3rem;
+    margin: -10px;
+
+}
+
+#nav-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#logo {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 30pt;
+    font-weight: bolder;
+}
+
+span {
+    color: rgb(202, 58, 79);
+    size: 30px;
+}
+
+#ul-list {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+
+}
+
+.nav-item {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.nav-item:hover {
+    color: rgb(202, 58, 79);
+}
+
+.header-text {
+    color: white;
+    margin-top: 200px;
+    margin-left: 10rem;
+}
+
+.header-btn {
+    background-color: rgb(202, 58, 79);
+    padding: 15px 30px;
+    border-radius: 2rem;
+    border: none;
+    font-size: 15px;
+    color: white;
+
+}
+
+.header-btn a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+
+}
+
+.header-btn:hover {
+    background-color: transparent;
+    border: solid white;
+}
+
+.section {
+    background-image: url(../img/jodie-cook-CEMh4JRiSOI-unsplash.jpg);
+    background-position: center;
+    padding: 2rem 8rem;
+    background-size: cover;
+    height: 100vh;
+    margin: 80px 100px;
+}
+
+.textandbtn {
+    background-color: rgb(202, 58, 79);
+    padding: 4rem 5rem;
+    height: 40vh;
+    width: 40%;
+    margin-top: 400px;
+    margin-left: 21rem;
+}
+
+.sec h1 {
+    color: white;
+    font-size: 40px;
+    margin-top: -10px;
+
+
+}
+
+.sec p {
+    font-size: 20px;
+}
+
+.textandbtn button {
+    background-color: white;
+    padding: 15px 30px;
+    border-radius: 2rem;
+    border: none;
+    font-size: 15px;
+
+}
+
+.textandbtn button hover {
+    background-color: rgb(202, 58, 79);
+}
+
+.textandbtn a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+
+.sec2textandbtn {
+    margin-top: 100px;
+}
+
+
+
+.sec2textandimg {
+    margin-top: 15rem;
+    margin-left: 5rem;
+    
+
+}
+
+.sec2textandimg h1 {
+    font-family: Verdana;
+    color: rgb(202, 58, 79);
+    margin-bottom: 2rem;
+}
+
+.sec2images {
+    display: flex;
+    margin: auto 4rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 1px;
+}
+
+.sec2images img {
+    width: 100%;
+}
+
+
+
+.sec2images p {
+    font-weight: bold;
+}
+
+#img2 {
+    margin-top: 4rem;
+}
+
+#img5 {
+    margin-top: 4rem;
+}
+
+.sec3imgandtext {
+    display: flex;
+    margin-bottom: 1rem;
+    margin-left: 9rem;
+
+}
+
+.sec3imgandtext h1{
+    margin-right: 4rem;
+    color: rgb(202, 58, 79);
+    font-size: 30px;
+    
+
+}
+
+.sec3imgandtext p{
+    font-weight: 10rem;
+    color: rgba(24, 24, 23, 0.63);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+.sec3imgandtext h3{
+    color: rgba(24, 24, 23, 0.63);
+}
+
+.sec3text{
+     margin-top: 5rem;
+     margin-left: 6rem;
+}
+
+.sec4imgandtext{
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.sec4imgandtext h1{
+    color: rgb(202, 58, 79);
+}
+
+.sec4imgandtext h5{
+    color: rgb(202, 58, 79);
+}
+
