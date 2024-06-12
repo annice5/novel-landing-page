@@ -239,6 +239,7 @@ hr {
     /* justify-content: center; */
 }
 
+<<<<<<< HEAD
 .sec4imageandtext-div {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -257,3 +258,9 @@ hr {
     width: 80%;
     height: 45vh;
 } */
+=======
+.sec5{
+    color: blue;
+}
+
+>>>>>>> 903ea2ab58f28bceb342b3d786a1898726362a09
