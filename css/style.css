@@ -229,17 +229,9 @@ hr {
     color: rgb(202, 58, 79);
 }
 
-.sec4imageandtext {
-    /* display: flex; */
-    /* display: grid;
-    grid-template-columns: repeat(3, 1fr); */
-    /* grid-template-rows: 1fr; */
-    /* grid-column-gap: 5px;
-    grid-row-gap: 0px; */
-    /* justify-content: center; */
-}
 
-<<<<<<< HEAD
+
+
 .sec4imageandtext-div {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -250,17 +242,4 @@ hr {
     width: 400px;
 }
 
-/* .sec4-div {
-    width: 50%;
-} */
 
-/* .sec4imageandtext img{
-    width: 80%;
-    height: 45vh;
-} */
-=======
-.sec5{
-    color: blue;
-}
-
->>>>>>> 903ea2ab58f28bceb342b3d786a1898726362a09
